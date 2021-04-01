@@ -29,10 +29,10 @@
 
  		<source-file src="src/ios/Ump.swift" />
 		<podspec>
-		    <config>
+<!-- 			<config> -->
 			<pods use-frameworks="true">
-			<pod name="GoogleUserMessagingPlatform" />
-		    </pods>
+				<pod name="GoogleUserMessagingPlatform" />
+			</pods>
 		</podspec>
 <!--         <framework src="GoogleUserMessagingPlatform" type="podspec" /> -->
 	</platform>
